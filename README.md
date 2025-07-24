@@ -9,10 +9,10 @@
       * [Installation](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#installation)
   * [Usage](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#usage)
   * [Supported Methods](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#supported-methods)
-  * [Examples]([https://www.google.com/search?q=%23](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#)examples)
-  * [Contributing]([https://www.google.com/search?q=%23](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#)contributing)
-  * [License]([https://www.google.com/search?q=%23](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#)license)
-  * [Contact]([https://www.google.com/search?q=%23](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#)contact)
+  * [Examples]((https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#)examples)
+  * [Contributing]((https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#)contributing)
+  * [License]((https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#)license)
+  * [Contact]((https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#)contact)
 
 ## About the Project
 
