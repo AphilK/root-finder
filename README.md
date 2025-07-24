@@ -1,7 +1,3 @@
-A good README file provides a clear overview of the project, how to use it, and what it does. Here's a README for your "root-finder" project, incorporating best practices:
-
------
-
 # Root Finder
 
   \#\# Table of Contents
