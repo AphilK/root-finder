@@ -6,17 +6,17 @@ A good README file provides a clear overview of the project, how to use it, and 
 
   \#\# Table of Contents
 
-  * [About the Project](https://www.google.com/search?q=%23about-the-project)
-  * [Features](https://www.google.com/search?q=%23features)
-  * [Getting Started](https://www.google.com/search?q=%23getting-started)
-      * [Prerequisites](https://www.google.com/search?q=%23prerequisites)
-      * [Installation](https://www.google.com/search?q=%23installation)
-  * [Usage](https://www.google.com/search?q=%23usage)
-  * [Supported Methods](https://www.google.com/search?q=%23supported-methods)
-  * [Examples](https://www.google.com/search?q=%23examples)
-  * [Contributing](https://www.google.com/search?q=%23contributing)
-  * [License](https://www.google.com/search?q=%23license)
-  * [Contact](https://www.google.com/search?q=%23contact)
+  * [About the Project](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#about-the-project)
+  * [Features](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#features)
+  * [Getting Started](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#getting-started)
+      * [Prerequisites](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#prerequisites)
+      * [Installation](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#installation)
+  * [Usage](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#usage)
+  * [Supported Methods](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#supported-methods)
+  * [Examples]([https://www.google.com/search?q=%23](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#)examples)
+  * [Contributing]([https://www.google.com/search?q=%23](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#)contributing)
+  * [License]([https://www.google.com/search?q=%23](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#)license)
+  * [Contact]([https://www.google.com/search?q=%23](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#)contact)
 
 ## About the Project
 
