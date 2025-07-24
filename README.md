@@ -147,6 +147,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Email - joaosilvanascimento.jops@gmail.com
 
-Project Link: [https://github.com/Aphilk/root-finder](https://www.google.com/search?q=https://github.com/aphilk/root-finder)
+Project Link: [https://github.com/Aphilk/root-finder](https://github.com/aphilk/root-finder)
 
 -----
