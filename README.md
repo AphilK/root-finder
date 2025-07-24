@@ -2,17 +2,17 @@
 
   \#\# Table of Contents
 
-  * [About the Project](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#about-the-project)
-  * [Features](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#features)
-  * [Getting Started](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#getting-started)
-      * [Prerequisites](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#prerequisites)
-      * [Installation](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#installation)
-  * [Usage](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#usage)
-  * [Supported Methods](https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#supported-methods)
-  * [Examples]((https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#)examples)
-  * [Contributing]((https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#)contributing)
-  * [License]((https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#)license)
-  * [Contact]((https://github.com/AphilK/root-finder/tree/main?tab=readme-ov-file#)contact)
+  * [About the Project](#about-the-project)
+  * [Features](#features)
+  * [Getting Started](#getting-started)
+      * [Prerequisites](#prerequisites)
+      * [Installation](#installation)
+  * [Usage](#usage)
+  * [Supported Methods](#supported-methods)
+  * [Examples](#examples)
+  * [Contributing](#contributing)
+  * [License](#license)
+  * [Contact](#contact)
 
 ## About the Project
 
